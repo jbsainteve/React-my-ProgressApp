@@ -1,0 +1,9 @@
+.techno-list {
+  text-align: center;
+}
+
+.techno-list-all{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
